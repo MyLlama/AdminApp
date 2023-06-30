@@ -184,8 +184,9 @@ hr {
   cursor: pointer;
 }
 
-.activity-tracker table {
-  width: 90%;
+.activity-tracker {
+  overflow-x: auto;
+  margin: 0px 30px;
 }
 
 table td, table th {
