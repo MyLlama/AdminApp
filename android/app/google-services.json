@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "786216732346",
+    "project_id": "adminappnotifications",
+    "storage_bucket": "adminappnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786216732346:android:9f1be6b99324235e2f2483",
+        "android_client_info": {
+          "package_name": "co.myllama.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC10nVXy029Eyd8EYgI7UBg7u1OdWYi7Ns"
+        },
+        {
+          "current_key": "AIzaSyC6j23yD-sbkhunnr9U0wo7OtFgY3wFhQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786216732346:android:44ff54b76acf79832f2483",
+        "android_client_info": {
+          "package_name": "co.myllama.adminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC10nVXy029Eyd8EYgI7UBg7u1OdWYi7Ns"
+        },
+        {
+          "current_key": "AIzaSyC6j23yD-sbkhunnr9U0wo7OtFgY3wFhQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
