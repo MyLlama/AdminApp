@@ -1,0 +1,8 @@
+{
+  "appId": "co.myllama.adminapp",
+  "appName": "admin app",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
